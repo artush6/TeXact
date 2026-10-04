@@ -1,6 +1,6 @@
 # TeXact
 
-TeXact is a local symbolic-math Raycast extension. Type LaTeX or plain math to see a large, rendered preview and any recognized calculus rule. Press **⌘↵** to calculate.
+TeXact is a local symbolic-math Raycast extension. Type LaTeX or plain math to see a large, rendered preview and any recognized calculus rule. Press **⌘↵** to calculate; the detail pane then shows only the enlarged answer while the original input remains in the search field.
 
 ## Examples
 
